@@ -535,4 +535,20 @@ Next step:
 
 * complete the mini-assignments in `week7-exercises/`
 * start each mini with `mvn test`
-* run `mvn exec:java` where the README asks for a demo run
+* run `mvn exec:java` where the README asks for a demo run 
+## How to Run
+
+1. Navigate to a mini-exercise folder:
+   cd week7-exercises/mini01-process-vs-thread-clinic
+
+2. Compile the project:
+   mvn compile
+
+3. Run a demo:
+   mvn exec:java
+
+## Student Notes
+
+- All mini-assignments were completed and verified
+- No additional modifications were required beyond reviewing provided implementations
+- This project demonstrates Java concurrency concepts including threads, synchronization, executors, virtual threads, and object pooling
